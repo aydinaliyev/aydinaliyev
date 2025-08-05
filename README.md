@@ -15,14 +15,6 @@ Welcome to my GitHub profile! I'm Aydin, a seasoned Software Engineer with over 
 - **MBA**, ADA University, Baku
 - **Bachelor of Computer Science**, University of Waterloo, Canada
 
-## 🚀 Professional Journey
-- **Senior Software Engineer**, Limestone Digital (Apr 2023 - Present)
-- **Software Engineer**, Fieldhub Inc (Jan 2023 - Jan 2024)
-- **Lecturer**, ADA University (Jan 2021 - Jan 2022)
-- **Manager**, Demir Yollari (Jan 2021 - Jan 2023)
-- **Senior Software Engineer**, Turnit (Jul 2018 - Jan 2022)
-- **Software Engineer**, Azercosmos (Oct 2016 - Jul 2018)
-
 ## 🌟 Highlights
 - Led and mentored teams of frontend developers, fostering collaboration and excellence.
 - Spearheaded the implementation of CI/CD pipelines, enhancing deployment efficiency.
