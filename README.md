@@ -27,7 +27,7 @@ I'm always on the lookout for new challenges and opportunities to grow. If you'r
 
 ## 📫 Connect with Me
 - **Email:** aliyevaydin101@gmail.com
-- **LinkedIn:** [aydin-aliyev](https://www.linkedin.com/in/aydin-aliyev-444534268/)
+- **LinkedIn:** [aydin-aliyev](https://www.linkedin.com/in/aydin-aliyev-engineer/)
 
 ---
 
