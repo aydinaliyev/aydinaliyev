@@ -1,34 +1,41 @@
-### Hi there 👋
 # Aydin Aliyev
 
-Welcome to my GitHub profile! I'm Aydin, a seasoned Software Engineer with over 9 years of experience in designing, testing, and maintaining robust software systems. My passion lies in creating innovative solutions that make a difference. Dive into my repositories to explore a world where code meets creativity!
+Full-stack software engineer with 10+ years of experience designing, building, and shipping web products. These days I work end-to-end on SaaS platforms — from data modeling, APIs, and multi-tenant architecture to design systems, CI/CD, and production infrastructure — almost entirely in TypeScript.
 
-## 🛠 Skills & Expertise
-- **Frontend:** React, Next.js, JavaScript, TypeScript, Redux, GraphQL, HTML5, CSS, Material UI, Tailwind CSS, Storybook
-- **Backend:** Node.js, Express.js, Django, Nest, PostgreSQL, MySQL, MongoDB, RabbitMQ
-- **DevOps & Tools:** Git, AWS, CI/CD pipelines, Docker
-- **Testing:** Jest, React Testing Library
-- **Languages:** Fluent in Azerbaijani, English, Russian, and Turkish
+I'm also deep into AI-assisted engineering: spec-driven development with multi-agent AI workflows, used to ship production software faster without compromising on code review, testing, or architecture.
+
+## 🛠 What I work with
+
+**Core stack**
+- **Frontend:** Next.js (App Router / RSC), React, TypeScript, Tailwind CSS, Radix UI, Storybook
+- **Backend:** Node.js, NestJS, GraphQL (Apollo), Prisma, PostgreSQL — multi-tenancy & row-level security
+- **Mobile:** React Native / Expo
+- **Infra & DevOps:** Docker, GitHub Actions CI/CD, Traefik, S3-compatible object storage, monorepos (pnpm + Turborepo)
+- **Testing:** Vitest, Jest, React Testing Library, Playwright
+- **AI tooling:** agentic development workflows (Claude Code), multi-agent orchestration, automated code review
+
+**Also worked with:** Express, Django, MongoDB, MySQL, RabbitMQ, Redux, Material UI, AWS
+
+## 🎯 Current focus
+
+- Building a multi-tenant SaaS platform end-to-end — product, design system, API, and infrastructure
+- Internationalization-first development (English / Azerbaijani / Russian)
+- Pragmatic architecture: vertical slices, boring proven technology, and shipping over polishing
+- Mentoring and building a strong code-review and testing culture
 
 ## 🎓 Education
+
 - **Master of Computer Science**, University of Leeds, UK
 - **MBA**, ADA University, Baku
 - **Bachelor of Computer Science**, University of Waterloo, Canada
 
-## 🌟 Highlights
-- Led and mentored teams of frontend developers, fostering collaboration and excellence.
-- Spearheaded the implementation of CI/CD pipelines, enhancing deployment efficiency.
-- Advocated for accessibility standards, ensuring inclusive user experiences.
-- Delivered engaging lectures on JavaScript, React, and web technologies to aspiring developers.
-- Championed Agile methodologies and Test-Driven Development (TDD) principles in various projects.
+## 🌍 Languages
 
-## 🔍 Looking Forward
-I'm always on the lookout for new challenges and opportunities to grow. If you're interested in collaborating or learning more about my work, feel free to reach out!
+Azerbaijani · English · Russian · Turkish
 
-## 📫 Connect with Me
+## 📫 Connect
+
 - **Email:** aliyevaydin101@gmail.com
 - **LinkedIn:** [aydin-aliyev](https://www.linkedin.com/in/aydin-aliyev-engineer/)
 
----
-
-Thank you for visiting my GitHub profile. Let's code the future together! 🌟
+Always open to interesting problems and good conversations about software.
