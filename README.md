@@ -35,6 +35,9 @@ Azerbaijani · English · Russian · Turkish
 
 ## 📫 Connect
 
+Open to Forward Deployed Engineer roles.
+
+- **Website, résumé and case studies:** [aydinaliyev.com](https://aydinaliyev.com)
 - **Email:** aliyevaydin101@gmail.com
 - **LinkedIn:** [aydin-aliyev](https://www.linkedin.com/in/aydin-aliyev-engineer/)
 
